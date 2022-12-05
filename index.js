@@ -1,4 +1,4 @@
 function myFunc() {
-    alert("Thanks for Clicking");
+    alert("Thanks for Visiting");
 }
 
